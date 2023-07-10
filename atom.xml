@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://andychung123.github.io</id>
+    <title>AndyChung123 的网站</title>
+    <updated>2023-07-10T08:30:19.522Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://andychung123.github.io"/>
+    <link rel="self" href="https://andychung123.github.io/atom.xml"/>
+    <subtitle>不知道说啥反正随便打点东西吧</subtitle>
+    <logo>https://andychung123.github.io/images/avatar.png</logo>
+    <icon>https://andychung123.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, AndyChung123 的网站</rights>
+    <entry>
+        <title type="html"><![CDATA[Longhorn 4074 汉化版]]></title>
+        <id>https://andychung123.github.io/post/lh4074chinese/</id>
+        <link href="https://andychung123.github.io/post/lh4074chinese/">
+        </link>
+        <updated>2023-05-07T13:01:02.000Z</updated>
+        <content type="html"><![CDATA[<p>由 WinBetaCN Team 为您呈现</p>
+<h3 id="更新日志">更新日志</h3>
+<ul>
+<li>v1.0<br>
+以安装了LonghornTools的Longhorn4074为基础，安装东亚语言，把所有区域和语言设置全部改为中文或中国，修改文件名</li>
+<li>v2.0<br>
+以SigmaOS3.0为基础，安装东亚语言，把所有区域和语言设置全部改为中文或中国，修改mui，修改文件名，优化系统</li>
+<li>v3.0<br>
+进一步优化系统，更新mui，更新文件名</li>
+<li>v4.0<br>
+原计划制作繁体中文版，但因为替换mui后无法启动，制作失败，决定跳过此版本号</li>
+<li>v5.0<br>
+以语言包的形式推出，mui更新</li>
+<li>v6.0<br>
+用易语言制作GUI安装程序，支持修复、卸载</li>
+<li>v6.5<br>
+mui更新，安装程序更新并摆脱命令行，提供三种形式，卸载、修复功能暂时消失</li>
+<li>v7.0<br>
+mui更新，安装程序更新，卸载功能回归，新增切换语言功能</li>
+<li>v10.0<br>
+原计划将修改很多部分，但最终由于一些原因未能实现，决定不改版本号了。mui更新，安装程序更新，切换语言功能被独立成了一个程序</li>
+<li>v10.0 (Service Pack 1)<br>
+加入产品密钥，mui更新，安装程序更新，支持自动修改地区</li>
+<li>v10.0 (Service Pack 2)<br>
+添加中文繁体语言支持，添加Longhorn MUI Tools，添加修复LonghornBug功能，mui更新，自动修改地区功能删除</li>
+<li>v11.0<br>
+修复 Longhorn Bug 功能移除，Longhorn MUI Tools 修改为 Language Tool，MUI 更新，安装程序更新，支持安装后修改要安装的功能。</li>
+</ul>
+<h3 id="产品密钥">产品密钥</h3>
+<p>Windows Longhorn 4074 语言包 10.0 SP1：winbetacn_team<br>
+Windows Longhorn 4074 语言包 10.0 SP2：5F8F7-ZNGPY-XHYHP-742X3-NMLU2<br>
+<strong>注：从 11.0 Beta 1 版本开始，不在需要产品密钥。</strong></p>
+<h3 id="下载">下载</h3>
+<p>123网盘：https://www.123pan.com/s/WbMSVv-NuQxv.html<br>
+huang1111网盘：https://pan.huang1111.cn/s/q94Gu3</p>
+]]></content>
+    </entry>
+</feed>
